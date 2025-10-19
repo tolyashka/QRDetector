@@ -1,0 +1,59 @@
+{
+  "rooms": [
+    {
+      "number": "424",
+      "schedule": {
+        "monday": [
+          {
+            "time": "08:30–10:00",
+            "subject": "Тест1",
+            "type": "Lab",
+            "teacher": "Асмарян А.Э",
+            "group": "ИУ3-31М"
+          }
+        ],
+        "tuesday": [
+            {
+              "time": "08:30–10:00",
+              "subject": "Тест2",
+              "type": "Lab",
+              "teacher": "Асмарян А.Э",
+              "group": "ИУ3-31М"
+            },
+            {
+              "time": "08:30–10:00",
+              "subject": "Тест3",
+              "type": "Lab",
+              "teacher": "Асмарян А.Э",
+              "group": "ИУ3-31М"
+            }
+        ],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [],
+        "sunday": []
+      }
+    },
+    {
+      "number": "425",
+      "schedule": {
+        "monday": [
+          {
+            "time": "10:10–11:40",
+            "subject": "Физика",
+            "type": "Lab",
+            "teacher": "Иванов И.И.",
+            "group": "ИУ3-32М"
+          }
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [],
+        "sunday": []
+      }
+    }
+  ]
+}
